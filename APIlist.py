@@ -7,6 +7,7 @@
 #possible APIs:
 #Amazon Alexa API
 #IBM Watson???
+#context.io for getting most valuable friends via email analysis
 
 #Strategy for tomorrow:
 #1. get base functionality done:
@@ -16,3 +17,10 @@
 #2. testing and implementation.
 #3. addition of extra functionalities
 #4. roll out completed versions.
+
+
+#we are going for the following:
+#good neighbor award: $200 first place, 100 for second
+#general placing, monitors, laptops, tablet, decending order
+#national instruments rapid prototyping award
+#mongoDB hack award: gift cards and trip
