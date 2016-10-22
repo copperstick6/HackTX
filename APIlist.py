@@ -8,6 +8,9 @@
 #Amazon Alexa API
 #IBM Watson???
 #context.io for getting most valuable friends via email analysis
+#indeed for job search after misplacemet by natural disasters
+#Microsoft Azure for cloud computing/creating dev gateways/API management
+#capital one for payment systems
 
 #Strategy for tomorrow:
 #1. get base functionality done:
