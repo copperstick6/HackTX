@@ -1,0 +1,7 @@
+packages we'll need:
+	flask
+	flask-login
+	flask-pymongo
+	flask-wtf
+	flask-security (if the above don't install this)
+	flask-mail (if the above don't install this)
