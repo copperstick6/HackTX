@@ -11,6 +11,7 @@
 #indeed for job search after misplacemet by natural disasters
 #Microsoft Azure for cloud computing/creating dev gateways/API management
 #capital one for payment systems
+#or chase, or both.
 
 #Strategy for tomorrow:
 #1. get base functionality done:
